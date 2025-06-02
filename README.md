@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">A passionate full-stack developer from the U.S.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericvegax&label=Profile%20views&color=0e75b6&style=flat" alt="ericvegax" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
